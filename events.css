@@ -1,0 +1,22 @@
+h1 {
+    color: rgba(238, 23, 166, 0.842);
+}
+
+h2 {
+    color: rgb(227, 241, 18);
+}
+
+h3 {
+    color: rgba(25, 226, 18, 0.815);
+}
+
+* {
+    border: solid;
+}
+.head{
+    text-align: center;
+}
+.row{
+    display: flex;
+    text-align: center;
+}

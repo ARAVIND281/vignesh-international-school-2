@@ -1,0 +1,18 @@
+h1 {
+    color: slateblue;
+}
+
+h2 {
+    color: tomato;
+}
+
+h3 {
+    color: teal;
+}
+
+* {
+    border: solid;
+}
+.row{
+    display: flex;
+}
